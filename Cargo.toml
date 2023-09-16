@@ -1,0 +1,11 @@
+[package]
+name = "heatshield"
+authors = ["Tim McNamara <tim@mcnamara.nz>"]
+version = "0.0.1"
+edition = "2021"
+description = "Unsafe code research project"
+license = "BlueOak-1.0.0"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
