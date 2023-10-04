@@ -1,0 +1,1 @@
+- Vytautas Astrauskas, Christoph Matheja, Federico Poli, Peter Müller, and Alexander J. Summers. (2020) "How do programmers use unsafe Rust?" _Proceedings of the ACM on Programming Languages 4_, OOPSLA (2020), 136:1–136:27. https://doi.org/10.1145/3428204 https://dl.acm.org/doi/10.1145/3428204
