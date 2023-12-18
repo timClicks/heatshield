@@ -1,0 +1,6 @@
+# Setup tasks
+
+cargo install tree-sitter-cli
+tree-sitter init-config
+
+# 

@@ -18,6 +18,8 @@ tree-sitter = "0.20.10"
 tree-sitter-rust = "0.20.3"
 csv = "1.3.0"
 clap = { version = "4.4.11", features = ["derive", "wrap_help"] }
+serde = { version = "1.0.193", features = ["derive"] }
+tempfile = "3.8.1"
 
 [[bin]]
 name = "unsafe-sitter"
